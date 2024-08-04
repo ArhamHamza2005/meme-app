@@ -1,0 +1,42 @@
+
+.card-data{
+    overflow: hidden;
+    border-radius: 10px;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    flex-direction: column;
+    width: 160px;
+    height: 240px;
+}
+.card-data img{
+    width: 150px;
+    height: 200px;
+    justify-content: center;
+}
+
+
+.btn-meme{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 35px;
+    color:rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    border-radius: 4px;
+    font-size: 20px;
+  
+}
+.mainname{
+    background-color:black;
+}
+.dashboard{
+    background-color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    /* grid-column: 3; */
+    /* grid-row: 3; */
+    /* grid text-center lg:grid-cols-3 lg:text-right */
+}
